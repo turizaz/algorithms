@@ -18,6 +18,6 @@
   "homepage": "https://github.com/turizaz/algorithms#readme",
   "dependencies": {
     "callgraph": "^1.0.9",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
